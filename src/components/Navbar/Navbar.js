@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
 import './Navbar.css';
-import { NavLink, NavItem } from 'react-router-dom'
+
 import img from '../Navbar/png.png';
-import Cards from '../Cards/Cards';
-import { Switch } from '@material-ui/core';
-import { Link, animateScroll as scroll } from "react-scroll";
+
+import { Link } from "react-scroll";
 
 
 function Navbar() {

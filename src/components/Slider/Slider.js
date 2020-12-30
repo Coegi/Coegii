@@ -1,8 +1,8 @@
 import React from 'react';
-import { ButtonToolbar, Button } from 'react-bootstrap'
+
 import img1 from '../Slider/banner.jpg'
 import './Slider.css'
-import Popup from '../Slider/Popup'
+
 
 class Slider extends React.Component {
     constructor(props) {
